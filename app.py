@@ -20,5 +20,5 @@ doc=prepare_documents(data_cleaned)
 st.write("Documents")
 st.write(doc)
 
-response=st.Page("response.py"
+response=st.Page("pages/response.py"
 )
