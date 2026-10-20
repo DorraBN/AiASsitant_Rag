@@ -1,0 +1,52 @@
+
+ticket_id,category,question,answer,product
+1,Orders,Where is my order?,Track your order from the Orders section using your tracking number.,Online Store
+2,Orders,Can I change my shipping address?,Contact customer support before your order is shipped to request an address change.,Online Store
+3,Orders,My order has not arrived,Check the tracking page for delivery updates. If the estimated date has passed contact support with your order number.,Online Store
+4,Orders,Can I modify an order after placing it?,Order changes may be possible before processing begins. Contact support as soon as possible.,Online Store
+5,Orders,How do I contact customer support?,Visit the Help or Contact Us section on the official website.,Customer Service
+6,Orders,I received the wrong product,Contact support with your order number and details of the product received.,Online Store
+7,Orders,My order confirmation email never arrived,Check your spam folder and verify your email address and order history.,Online Store
+8,Orders,Can I cancel my order?,You may be able to cancel before the order is prepared or shipped. Contact support promptly.,Online Store
+9,Orders,How can I download my order receipt?,Open your order history and select the order to look for a receipt or invoice.,Online Store
+10,Orders,Why was my order cancelled?,Check your email for a cancellation notice or contact support for the reason.,Online Store
+11,Shipping,How long does delivery take?,Estimated delivery times are displayed at checkout and depend on your location.,Delivery
+12,Shipping,My tracking number is not working,Tracking information may take time to update after dispatch. Contact support if the issue continues.,Delivery
+13,Shipping,Do you deliver internationally?,Available countries and international shipping fees are shown at checkout.,Delivery
+14,Shipping,Can I track an international shipment?,Use the tracking number in your shipping confirmation. Updates may be limited during international transit.,Delivery
+15,Shipping,My package says delivered but I did not receive it,Check nearby delivery locations and ask household members. If it is still missing contact the carrier and support.,Delivery
+16,Shipping,Can I change my delivery time?,If the carrier supports scheduling use the tracking link to review available delivery options.,Delivery
+17,Shipping,Can I change my delivery address after shipping?,Contact the carrier promptly to check whether the delivery address can still be changed.,Delivery
+18,Shipping,The delivery address is incomplete,Contact the seller or carrier with your tracking number to check whether the address can be corrected.,Delivery
+19,Shipping,How much does shipping cost?,Shipping fees are calculated at checkout based on your location and selected delivery method.,Delivery
+20,Shipping,My package is delayed,Check tracking updates and contact the carrier or customer support if the expected delivery date has passed.,Delivery
+21,Returns,How can I return a product?,Open your order history select the item and follow the return instructions.,Online Store
+22,Returns,When will I receive my refund?,Refunds are usually processed after the returned item is received and inspected. Bank processing times may vary.,Payments
+23,Returns,Can I exchange an item?,Contact customer support with your order number and the item you want to exchange.,Online Store
+24,Returns,The product arrived damaged,Contact support with your order number and photos of the damaged product to discuss available options.,Online Store
+25,Returns,Can I return an item without the original packaging?,Return requirements depend on the store policy and product type. Contact support before shipping it back.,Online Store
+26,Returns,Who pays the return shipping fee?,Return shipping fees depend on the store policy and the reason for the return.,Online Store
+27,Returns,How can I check my return status?,Check your order history or return confirmation. Contact support if there are no updates.,Online Store
+28,Returns,What items are not eligible for return?,Return exclusions depend on the store policy and product type. Review the return policy before submitting a request.,Online Store
+29,Returns,My refund has not arrived,Check your refund confirmation and payment provider processing time. Contact support if the expected period has passed.,Payments
+30,Returns,Can I return a product purchased on sale?,Sale item return eligibility depends on the store policy. Check the return conditions for your order.,Online Store
+31,Payments,Which payment methods are accepted?,Available payment methods are displayed at checkout and may vary by country.,Payments
+32,Payments,My payment was declined,Verify your payment details and available funds. Try another payment method or contact your bank.,Payments
+33,Payments,I was charged twice,Check whether both transactions are completed or one is pending. Contact support if both charges are completed.,Payments
+34,Payments,Is it safe to pay on your website?,Use the official checkout page and never share your password or verification codes with support agents.,Payments
+35,Payments,How can I get an invoice?,Check your order confirmation email or order history for an invoice. Contact support if it is unavailable.,Payments
+36,Payments,Can I pay in a different currency?,Available currencies and conversion details depend on your country and payment provider.,Payments
+37,Payments,My card was charged but the order failed,Check your order history and transaction status. Contact support with the transaction reference if a completed charge has no order.,Payments
+38,Payments,My coupon code is not working,Check the expiry date eligibility rules and minimum purchase amount. Ensure the code is entered correctly.,Payments
+39,Payments,Is cash on delivery available?,Cash on delivery availability depends on your country and delivery address. Check the options at checkout.,Payments
+40,Payments,How can I update my payment method?,Open your account payment settings if supported or select an available payment method at checkout.,Payments
+41,Account,I forgot my password,Select Forgot Password on the sign in page and follow the instructions sent to your registered email.,Account
+42,Account,I cannot log in to my account,Check your email and password and use the password reset option if necessary.,Account
+43,Account,How can I change my email address?,Open account settings and update your email address. You may need to verify the new address.,Account
+44,Account,I did not receive the verification email,Check your spam folder verify your email address and request a new verification email.,Account
+45,Account,How do I update my phone number?,Open account settings and update your phone number if the option is available.,Account
+46,Account,How can I delete my account?,Review account settings for a deletion option or contact support for the account deletion process.,Account
+47,Account,How can I secure my account?,Use a unique strong password enable two factor authentication if available and never share verification codes.,Account
+48,Technical,The website is not loading,Check your internet connection refresh the page and try another browser or clear your browser cache.,Website
+49,Technical,The app keeps crashing,Update the app restart your device and check for available updates. Contact support if the problem continues.,Mobile App
+50,Technical,The checkout page shows an error,Refresh the page check your connection and try another browser. Contact support with the error message if it persists.,Website
